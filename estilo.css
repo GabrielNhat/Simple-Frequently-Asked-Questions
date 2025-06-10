@@ -5,32 +5,40 @@
 }
 
 body {
-    margin: 0 auto;
     font-family: "Inter", sans-serif;
     background-color: #f9fbfd;
+    margin: 0;
+    
 }
 
 ul, ol {
-    list-style-position:inside
-     
+    padding-left: 20px;
+    list-style-position: inside;
 }
 
 .secao-topo {
     background-color: #fefffe;
-    padding: 55px 55px;
+    padding: 80px 20px;
     text-align: center;
-    line-height: 30px;
+    line-height: 2;
+    width: 100%;
+}
+
+.secao-topo p {
+    padding-top: 6px;
 }
 
 .return, .orders {
     text-align: left;
-    margin-left: 769px;
-    margin-right: 600px;
+    padding-top: 60px;
     line-height: 2;
+    margin: 0 40% 0 35%;
+    width: 800px;
+
 }
 
 h2, p {
-    margin: 15px auto;
+    margin-bottom: 15px;
 }
 
 a {
@@ -39,9 +47,13 @@ a {
 }
 
 .orders {
-    border-bottom: solid grey 1px;
+    border-bottom: 1px solid #ccc;
 }
 
 h1, h2, span {
     font-weight: bold;
+}
+
+p {
+    padding-top: 10px;
 }

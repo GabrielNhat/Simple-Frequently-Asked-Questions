@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    font-family: "Inter", sans-serif;
+    background-color: #f9fbfd;
+}
+
+ul, ol {
+    list-style-position:inside
+     
+}
+
+.secao-topo {
+    background-color: #fefffe;
+    padding: 55px 55px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.return, .orders {
+    text-align: left;
+    margin-left: 769px;
+    margin-right: 600px;
+    line-height: 2;
+}
+
+h2, p {
+    margin: 15px auto;
+}
+
+a {
+    text-decoration: none;
+    color: #618deb;
+}
+
+.orders {
+    border-bottom: solid grey 1px;
+}
+
+h1, h2, span {
+    font-weight: bold;
+}

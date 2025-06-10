@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Visão Geral
-![screenshot]([https://github.com/user-attachments/assets/3cd5fde5-2723-4cdc-8ddd-2cca67e13780](https://github.com/GabrielNhat/Simple-Frequently-Asked-Questions/blob/main/Screenshot_1.png))
+![screenshot](https://github.com/user-attachments/assets/6ae8c8e9-e346-49c3-b1dd-fe1627906673)
 
 Este projeto é uma página de perguntas frequentes (_FAQ_) desenvolvida como parte do desafio **DevChallenges**. O objetivo foi estruturar as informações de forma clara, acessível e responsiva, utilizando HTML semântico e estilização com CSS. A página é composta por seções com perguntas e respostas organizadas, links úteis e um layout limpo e funcional, ideal para aprendizado e prática de fundamentos de front-end.
 
